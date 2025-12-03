@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "description": "Source code for 2025 Advent of Code challenges",
+  "main": "index.ts",
+  "scripts": {
+    "day1": "cd src/day1 && ts-node day1.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheMasterCoder007/advent-of-code-2025.git"
+  },
+  "dependencies": {
+    "@types/node": "^24.10.1",
+    "prettier": "^3.7.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "yarn@4.12.0"
+}

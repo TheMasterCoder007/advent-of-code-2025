@@ -1,0 +1,8 @@
+# jetbrains
+.idea/
+
+# node
+node_modules/
+
+# yarn
+.yarn/
