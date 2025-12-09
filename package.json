@@ -4,7 +4,9 @@
   "description": "Source code for 2025 Advent of Code challenges",
   "main": "index.ts",
   "scripts": {
-    "day1": "cd src/day1 && ts-node day1.ts"
+    "day1": "cd src/day1 && ts-node day1.ts",
+    "day2": "cd src/day2 && ts-node day2.ts",
+    "day3": "cd src/day3 && ts-node day3.ts"
   },
   "repository": {
     "type": "git",
