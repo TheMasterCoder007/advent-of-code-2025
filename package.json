@@ -7,7 +7,8 @@
     "day1": "cd src/day1 && ts-node day1.ts",
     "day2": "cd src/day2 && ts-node day2.ts",
     "day3": "cd src/day3 && ts-node day3.ts",
-    "day4": "cd src/day4 && ts-node day4.ts"
+    "day4": "cd src/day4 && ts-node day4.ts",
+    "day5": "cd src/day5 && ts-node day5.ts"
   },
   "repository": {
     "type": "git",
