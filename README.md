@@ -1,4 +1,4 @@
-# Advent of Code - 2025
+# Advent of Code – 2025
 
 This repository contains my solutions for the 2025 Advent of Code challenges. All challenges will be completed in TypeScript and are done purely for fun and skill development.
 
@@ -17,6 +17,13 @@ This repository contains my solutions for the 2025 Advent of Code challenges. Al
 
 ## Challenges
 
-| Day | Challenge Title                        | Solution Path | Status |
-|-----|----------------------------------------|---------------|--------|
-| 1   | Secret Entrance                        | `src/day1/`   | ✅      |
+| Day | Challenge Title     | Solution Path | Status |
+|-----|---------------------|---------------|--------|
+| 1   | Secret Entrance     | `src/day1/`   | ✅     |
+| 2   | Gift Shop           | `src/day2/`   | ✅     |
+| 3   | Lobby               | `src/day3/`   | ✅     |
+| 4   | Printing Department | `src/day4/`   | ✅     |
+| 5   | Cafeteria           | `src/day5/`   | ✅     |
+| 6   | Trash Compactor     | `src/day6/`   | ✅     |
+
+
