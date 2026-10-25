@@ -25,5 +25,6 @@ This repository contains my solutions for the 2025 Advent of Code challenges. Al
 | 4   | Printing Department | `src/day4/`   | ✅     |
 | 5   | Cafeteria           | `src/day5/`   | ✅     |
 | 6   | Trash Compactor     | `src/day6/`   | ✅     |
+| 7   | Laboratories        | `src/day7/`   | ✅     |
 
 
